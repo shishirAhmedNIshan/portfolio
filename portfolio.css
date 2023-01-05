@@ -1,0 +1,59 @@
+ 
+
+ul li{
+    float: left;
+    list-style: none;
+    display: flex;
+    margin: 15px;
+    align-items: center;
+    
+}
+.class1{
+    color: blue;
+
+}
+.class5{
+    background-color: aquamarine;
+
+}
+.class2{
+    margin: 0px 100px;
+    margin-bottom:0%;
+    display: flex;
+    justify-content: space-between;
+}
+.class4{
+    margin: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+div h3{
+    font-size: 35px;
+}
+.btn{
+    color: rgb(105, 8, 8);
+    border-radius: 5px;
+    font-weight: 800;
+    background-color: rgba(230, 207, 207, 0.89);
+    padding: 2;
+}
+header{
+    background-image:url('image/R.png');
+}
+.class6{
+    background-color: blueviolet;
+    margin: 0 200px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 20px 30px;
+   
+
+     
+}
+.class7{
+    color: brown ;
+    margin-left: 300px;
+     
+}
+    
